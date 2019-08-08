@@ -1,1 +1,1 @@
-export { default as Calculator } from './add';
+export { Calculator } from './add';
