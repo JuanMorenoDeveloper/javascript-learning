@@ -1,6 +1,6 @@
 export class Calculator {
   add(a, b) {
-    return 0;
+    return a + b;
   }
   subs(a, b) {
     return a - b;
