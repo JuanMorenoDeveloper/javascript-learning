@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/earth001/javascript-learning.svg?branch=master)](https://travis-ci.org/earth001/javascript-learning)
 # Babel application
 
 More details on using Mocha with Babel [here](https://mochajs.org/#-require-module-r-module)
